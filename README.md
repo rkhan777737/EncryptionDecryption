@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Encryption Project
 
 A simple C++ console application that allows users to encrypt, decrypt, and view text files.
@@ -81,3 +82,7 @@ Developed by: Rehan
 Language: C++
 Purpose:  Encryption Demonstration
 Platform: Works on Windows, Linux, and macOS
+=======
+# EncryptionDecryption
+This project was made to encrypt and decrypt a file.
+>>>>>>> 06d0c3d006e9a05532958dad1445b9a29b1a10d8
