@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # File Encryption Project
 
 A simple C++ console application that allows users to encrypt, decrypt, and view text files.
